@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "john@example.com",
+      "phone": "9876543210",
+      "role": "Manager"
+    },
+    {
+      "fullName": "Rahul Birap",
+      "email": "rahulbirap@gmail.com",
+      "role": "Admin",
+      "phone": "8902453432",
+      "id": 2
+    },
+    {
+      "fullName": "Suyash Kale",
+      "email": "suyash@gmail.com",
+      "role": "Developer",
+      "phone": "9832489734",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
